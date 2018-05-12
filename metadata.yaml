@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/384
     wikipedia: http://en.wikipedia.org/wiki/Dornford_Yates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27079#Jonah-and-Co.
 gutenberg_issued: '2009-01-09'
 gutenberg_type: Text
 identifiers:
